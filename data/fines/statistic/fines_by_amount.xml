@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<type>
+  <fine type="NO_LICENSE">105800</fine>
+  <fine type="SEATBELT">45900</fine>
+  <fine type="DRUNK">22100</fine>
+  <fine type="WRONG_PARKING">7480</fine>
+  <fine type="SPEEDING">5100</fine>
+</type>
+
